@@ -1,5 +1,6 @@
 # My Portfolio App
 Open:  [https://github.com/Pai22/portfolio](https://portfolio-six-navy-24.vercel.app/)
+Referenced by: https://youtu.be/3aCoZudPEKE?si=BOl7Q-lWs_MpsGAj
 
 # Getting Started with Create React App
 
