@@ -18,7 +18,7 @@ const About = () => {
                 <p className="about__description">
                     I'm a web developer passionate about creating user-friendly 
                     websites. With skills in both front-end and back-end development, I focus on delivering 
-                    efficient and functional web solutions."I interested in creating engaging and efficient 
+                    efficient and functional web solutions. I interested in creating engaging and efficient 
                     websites. Skilled in both front-end and back-end technologies, I aim to bring ideas to 
                     life by merging design with functionality. My goal is to build responsive, dynamic web 
                     applications that not only look great but also provide seamless, reliable interactions 
