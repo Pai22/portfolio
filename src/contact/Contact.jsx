@@ -80,7 +80,7 @@ const Contact = () => {
         
 
         <div className="contact__content">
-          <h3 className="contact__title">Write me your project</h3>
+          <h3 className="contact__title">Write me your message</h3>
 
           <form  ref={form} onSubmit={sendEmail} className="contact__form">
             <div className="contact__form-div">
@@ -111,7 +111,7 @@ const Contact = () => {
 
             <div className="contact__form-div contact__form-area">
               <label htmlFor="proj" className="contact__form-tag">
-                Project
+                Message
               </label>
               <textarea
                 name="proj"
